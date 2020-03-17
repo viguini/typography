@@ -1,5 +1,5 @@
 Charter license
-===============
+---------------
 
 This is a copy of the Charter fonts which Bitstream contributed to the X consortium. This is the original notice included with the fonts:
 
